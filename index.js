@@ -12,8 +12,11 @@ function generateProgressBar() {
       '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
     return `{ ${progressBar} }`
 }
+const fs = require('fs');
 
+fs.writeFileSync('README.md', readme);
 const readme = `\
+
 ### Hi there 👋
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
