@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-⏳ Year progress { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.69 %
+⏳ Year progress { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.75 %
 
 ---
 
-⏰ Updated on Thu, 17 Aug 2023 20:04:51 GMT
+⏰ Updated on Fri, 18 Aug 2023 00:51:26 GMT
 
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
-   
-![亮色](https://raw.githubusercontent.com/ZRQ-rikkie/ZRQ-rikkie/output/github-contribution-grid-snake.svg)
