@@ -2,11 +2,7 @@
 ![Snake](https://github.com/ZRQ-rikkie/ZRQ-rikkie/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-360-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -23,10 +19,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                317 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-🌆 Daytime                586 commits         ██████████░░░░░░░░░░░░░░░   41.30 % 
-🌃 Evening                299 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-🌙 Night                  217 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+🌞 Morning                317 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+🌆 Daytime                586 commits         ██████████░░░░░░░░░░░░░░░   41.07 % 
+🌃 Evening                299 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+🌙 Night                  225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 ```
 
 
@@ -61,5 +57,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2023 00:56:39 UTC
+ Last Updated on 29/08/2023 01:08:26 UTC
 <!--END_SECTION:waka-->
