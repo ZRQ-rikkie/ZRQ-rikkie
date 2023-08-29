@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Ruiqi 👋
 ![Snake](https://github.com/ZRQ-rikkie/ZRQ-rikkie/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
