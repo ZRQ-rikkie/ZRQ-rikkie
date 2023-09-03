@@ -1,5 +1,5 @@
 
-<h2 align="center">✨Who Am I✨</h2>
+<h2 align="center">✨Hi, I'm Ruiqi✨</h2>
 
 <p align="center">
   Hello, I'm Ruiqi(Rikkie), formerly an architect and now a Computer Science graduate student based in Dublin. Besides my academic pursuits, I also venture into freelance design. I consider myself a quick learner, easy-going, and patient.</p>
