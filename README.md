@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ruiqi(Rikkie) Zhao</h1>
-<h3 align="center">A passionate developer and designer </h3>
+<h2 align="center">✨Who Am I✨</h2>
+
+<p align="center">
+Hello, I'm Ruiqi, a former architect turned computer science graduate student based in Dublin. Currently, I'm also wearing the hat of a freelance designer. I pride myself on being a quick learner, easy-going, and patient.
+
+I'm passionate about the entire creative process, from ideation to implementation, in both programming and design. Constantly curious, I thrive on learning new things and diving deep into investigations. </p>
 
 ![Snake](https://github.com/ZRQ-rikkie/ZRQ-rikkie/blob/output/github-contribution-grid-snake.svg)
 
-<h2 align="center">✨Who Am I✨</h2>
+
 
 
 🔍 Currently pursuing a Computer Science degree at University College Dublin, with an expected completion date in January 2024.
