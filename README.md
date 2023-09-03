@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruiqi (Rikkie) Zhao</h1>
+
 <h2 align="center">✨Who Am I✨</h2>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
   📚 I'm on track to complete my Computer Science degree at University College Dublin in January 2024. <br>
   🛠️ I'm actively on the hunt for an entry-level software development role in Ireland, aiming to start after my graduation. <br>
-  🌟 <strong>Highlighted Projects</strong>: Please click on the project names below to delve into the respective repositories. <br>
+  🌟 Highlighted Projects: Please click on the project names below to delve into the respective repositories. <br>
   🤝 Thank you for taking the time to explore my GitHub profile. For any inquiries or collaborations, you're welcome to contact me via email or connect on LinkedIn.
 
 
