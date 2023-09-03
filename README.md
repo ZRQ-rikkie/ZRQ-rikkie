@@ -2,7 +2,8 @@
 <h2 align="center">✨Who Am I✨</h2>
 
 <p align="center">
-  Hello, I'm Ruiqi, formerly an architect and now a Computer Science graduate student based in Dublin. Besides my academic pursuits, I also venture into freelance design. I consider myself a quick learner, easy-going, and patient.
+  Hello, I'm Ruiqi, formerly an architect and now a Computer Science graduate student based in Dublin. Besides my academic pursuits, I also venture into freelance design. I consider myself a quick learner, easy-going, and patient.</p>
+  <p align="center">
   My enthusiasm for creativity extends from architecture to software development. I take joy in each step of the process, whether I'm sketching designs or writing code. Driven by an insatiable curiosity, I'm constantly expanding my skillset and diving into new challenges.
 </p>
 
@@ -12,12 +13,11 @@
 
 <h2 align="center">🚀 Career Goals 🚀</h2>
 
-<p align="center">
+
   📚 I'm on track to complete my Computer Science degree at University College Dublin in January 2024. <br>
   🛠️ I'm actively on the hunt for an entry-level software development role in Ireland, aiming to start after my graduation. <br>
   🌟 <strong>Highlighted Projects</strong>: Please click on the project names below to delve into the respective repositories. <br>
   🤝 Thank you for taking the time to explore my GitHub profile. For any inquiries or collaborations, you're welcome to contact me via email or connect on LinkedIn.
-</p>
 
 
 
