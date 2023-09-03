@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruiqi(Rikkie) Zhao</h1>
-<h3 align="center">A passionate developer and Designer </h3>
+<h3 align="center">A passionate developer and designer </h3>
 
 ![Snake](https://github.com/ZRQ-rikkie/ZRQ-rikkie/blob/output/github-contribution-grid-snake.svg)
 
