@@ -1,4 +1,6 @@
-### Hi I'm Ruiqi 👋
+<h1 align="center">Hi 👋, I'm Ruiqi Zhao</h1>
+<h3 align="center">A passionate developer and currently a Computer Science graduate student in UCD</h3>
+
 ![Snake](https://github.com/ZRQ-rikkie/ZRQ-rikkie/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
