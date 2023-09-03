@@ -3,6 +3,7 @@
 
 ![Snake](https://github.com/ZRQ-rikkie/ZRQ-rikkie/blob/output/github-contribution-grid-snake.svg)
 
+✨<h2 align="center">Who Am I</h2>✨
 🔍 Currently pursuing a Computer Science degree at University College Dublin, with an expected completion date in January 2024.
 
 🚀 Actively seeking an entry-level software development position in Ireland, available to start post-graduation.
