@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ruiqi(Rikkie) Zhao</h1>
+<h1 align="center">Hi 👋, I'm Ruiqi (Rikkie) Zhao</h1>
 <h2 align="center">✨Who Am I✨</h2>
 
 <p align="center">
-Hello, I'm Ruiqi, a former architect turned computer science graduate student based in Dublin. Currently, I'm also wearing the hat of a freelance designer. I pride myself on being a quick learner, easy-going, and patient.
+  Hello, I'm Ruiqi, formerly an architect and now a Computer Science graduate student based in Dublin. Besides my academic pursuits, I also venture into freelance design. I consider myself a quick learner, easy-going, and patient.
 
-I'm passionate about the entire creative process, from ideation to implementation, in both programming and design. Constantly curious, I thrive on learning new things and diving deep into investigations. </p>
+  My enthusiasm for creativity extends from architecture to software development. I take joy in each step of the process, whether I'm sketching designs or writing code. Driven by an insatiable curiosity, I'm constantly expanding my skillset and diving into new challenges.
+</p>
 
-![Snake](https://github.com/ZRQ-rikkie/ZRQ-rikkie/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/ZRQ-rikkie/ZRQ-rikkie/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
+</p>
 
+<h2 align="center">🚀 Career Goals 🚀</h2>
 
+<p align="center">
+  📚 I'm on track to complete my Computer Science degree at University College Dublin in January 2024. <br>
+  🛠️ I'm actively on the hunt for an entry-level software development role in Ireland, aiming to start after my graduation. <br>
+  🌟 <strong>Highlighted Projects</strong>: Please click on the project names below to delve into the respective repositories. <br>
+  🤝 Thank you for taking the time to explore my GitHub profile. For any inquiries or collaborations, you're welcome to contact me via email or connect on LinkedIn.
+</p>
 
-
-🔍 Currently pursuing a Computer Science degree at University College Dublin, with an expected completion date in January 2024.
-
-🚀 Actively seeking an entry-level software development position in Ireland, available to start post-graduation.
-
-🌟 Highlighted Projects: Click on the project names below to explore their respective repositories.
-
-🤝 Thank you for exploring my GitHub profile. For inquiries or collaborations, feel free to reach out via email or connect with me on LinkedIn.
 
 
 
