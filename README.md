@@ -2,7 +2,7 @@
 <h2 align="center">✨Who Am I✨</h2>
 
 <p align="center">
-  Hello, I'm Ruiqi, formerly an architect and now a Computer Science graduate student based in Dublin. Besides my academic pursuits, I also venture into freelance design. I consider myself a quick learner, easy-going, and patient.</p>
+  Hello, I'm Ruiqi(Rikkie), formerly an architect and now a Computer Science graduate student based in Dublin. Besides my academic pursuits, I also venture into freelance design. I consider myself a quick learner, easy-going, and patient.</p>
   <p align="center">
   My enthusiasm for creativity extends from architecture to software development. I take joy in each step of the process, whether I'm sketching designs or writing code. Driven by an insatiable curiosity, I'm constantly expanding my skillset and diving into new challenges.
 </p>
