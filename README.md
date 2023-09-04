@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<div align="center">
+<div >
 
 <h2 align="center">📈 My GitHub Activity📈</h2>
 
