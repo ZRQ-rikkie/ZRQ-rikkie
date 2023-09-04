@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<div >
+
 
 <h2 align="center">📈 My GitHub Activity📈</h2>
 
@@ -73,4 +73,4 @@ portfolio                4 hrs 55 mins       ███████████�
 
  Last Updated on 04/09/2023 00:46:10 UTC
 <!--END_SECTION:waka-->
-</div>
+
