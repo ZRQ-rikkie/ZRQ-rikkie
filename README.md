@@ -2,9 +2,11 @@
 <h2 align="center">✨Hi, I'm Ruiqi✨</h2>
 
 <p align="center">
-  Hello, I'm Ruiqi(Rikkie), formerly an architect and now a Computer Science graduate student based in Dublin. Besides my academic pursuits, I also venture into freelance design. I consider myself a quick learner, easy-going, and patient.</p>
-  <p align="center">
-  My enthusiasm for creativity extends from architecture to software development. I take joy in each step of the process, whether I'm sketching designs or writing code. Driven by an insatiable curiosity, I'm constantly expanding my skillset and diving into new challenges.
+ Hello, I'm Ruiqi. Currently based in Dublin, I'm delving deep into the world of computer science at the graduate level after transitioning from a career in architecture. As a freelance designer with a strong focus on tech solutions, I've honed my skills to be agile, approachable, and exceedingly patient.
+
+My journey into computer science isn't just academic; it's a venture into solving complex problems and contributing to innovative projects. I revel in the detailed intricacies of programming, always eager to dissect each step of the development process to craft something impactful and enduring.
+
+Whether I'm debugging code or unraveling the complexities of an algorithm, I bring the same level of enthusiasm and diligence to every endeavor. This drive doesn't limit itself to technology; my inherent curiosity pushes me to explore a wide array of topics, constantly adding to my repertoire of skills and knowledge.
 </p>
 
 <p align="center">
