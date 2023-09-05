@@ -39,6 +39,40 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 <h2 align="center">📈 My GitHub Activity📈</h2>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-482-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 14.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 302 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+CSS                      5 hrs 42 mins       █████████████░░░░░░░░░░░░   50.63 % 
+JavaScript               5 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.86 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 15 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+portfolio                11 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/09/2023 16:37:50 UTC
 <!--END_SECTION:waka-->
 
