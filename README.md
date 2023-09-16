@@ -1,7 +1,7 @@
 
 <h2 align="center">✨Hi, I'm Ruiqi✨</h2>
 
- <img src="https://github.com/ZRQ-rikkie/ZRQ-rikkie/assets/74203373/fc8909c9-da15-4277-a360-970fb6a0087a" alt="Home"/>
+ <img src="https://github.com/ZRQ-rikkie/portfolio/blob/temp-main/my-portfolio/Home%20%20(1).gif" alt="Home"/>
 
 
 
