@@ -1,5 +1,7 @@
 
 <h2 align="center">✨Hi, I'm Ruiqi✨</h2>
+![image](https://github.com/ZRQ-rikkie/ZRQ-rikkie/assets/74203373/de8d4336-2552-4d23-9e04-11c99d78b277)
+
 
 <p>
 Hello, I'm Ruiqi. Currently based in Dublin, I'm delving deep into the world of computer science at the graduate level after transitioning from a career in architecture. As a freelance designer with a strong focus on tech solutions, I've honed my skills to be agile, approachable, and exceedingly patient.
