@@ -1,7 +1,7 @@
 
 <h2 align="center">✨About Me✨</h2>
 <p align="center">
- <img src="https://github.com/ZRQ-rikkie/portfolio/blob/temp-main/my-portfolio/Home%20%20(1).gif" alt="Home" width="70%"/>
+ <img src="https://github.com/ZRQ-rikkie/portfolio/blob/temp-main/my-portfolio/Home%20%20(1).gif" alt="Home" width="80%"/>
 </p>
 
 <p>
