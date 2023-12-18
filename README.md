@@ -46,9 +46,9 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 **🐱 My GitHub Data** 
 
-> 📦 38.2 kB Used in GitHub's Storage 
+> 📦 90.7 kB Used in GitHub's Storage 
  > 
-> 🏆 464 Contributions in the Year 2023
+> 🏆 466 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -75,6 +75,6 @@ Ruby                     1 hr 22 mins        ███████████�
 ```
 
 
- Last Updated on 17/12/2023 00:53:47 UTC
+ Last Updated on 18/12/2023 00:51:10 UTC
 <!--END_SECTION:waka-->
 
