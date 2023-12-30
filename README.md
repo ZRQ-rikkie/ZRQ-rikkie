@@ -62,20 +62,16 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       █████████████████████████   100.00 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-interview0               2 hrs 11 mins       █████████████████████████   99.62 % 
-00000                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Stripe                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/12/2023 00:39:28 UTC
+ Last Updated on 30/12/2023 00:47:35 UTC
 <!--END_SECTION:waka-->
 
