@@ -48,7 +48,7 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 > 📦 90.7 kB Used in GitHub's Storage 
  > 
-> 🏆 467 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,16 +62,20 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java Properties          18 mins             ██████████████░░░░░░░░░░░   54.73 % 
+SQL                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Properties               6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 26 mins             ███████████████████░░░░░░   76.34 % 
+VS Code                  8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fullstack-react-and-sprin34 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2023 00:53:03 UTC
+ Last Updated on 01/01/2024 00:54:35 UTC
 <!--END_SECTION:waka-->
 
