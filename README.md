@@ -62,17 +62,16 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   12 mins             ██████████████░░░░░░░░░░░   57.95 % 
-Text                     8 mins              ███████████░░░░░░░░░░░░░░   42.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ruiqi_zhao22205500       21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/01/2024 00:53:04 UTC
+ Last Updated on 16/01/2024 00:50:42 UTC
 <!--END_SECTION:waka-->
 
