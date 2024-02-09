@@ -42,7 +42,7 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 <h2 align="center">📈 My GitHub Activity📈</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,19 +62,16 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   50 mins             ████████████████████████░   94.62 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Markdown                 2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  50 mins             ████████████████████████░   94.62 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-00000                    50 mins             ████████████████████████░   94.62 % 
-DSA                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+DSA                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/02/2024 00:46:04 UTC
+ Last Updated on 09/02/2024 00:45:27 UTC
 <!--END_SECTION:waka-->
 
