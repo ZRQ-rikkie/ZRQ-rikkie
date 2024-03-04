@@ -62,16 +62,18 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java Properties          1 min               ██████████████░░░░░░░░░░░   56.56 % 
+Java                     1 min               █████████░░░░░░░░░░░░░░░░   37.76 % 
+Properties               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fullstack-react-and-sprin3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/03/2024 00:49:44 UTC
+ Last Updated on 04/03/2024 00:47:23 UTC
 <!--END_SECTION:waka-->
 
