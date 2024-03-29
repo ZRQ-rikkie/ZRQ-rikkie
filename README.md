@@ -48,8 +48,6 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 > 📦 116.4 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -62,18 +60,16 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   6 mins              ████████████████████████░   96.93 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chatchain                6 mins              ████████████████████████░   96.93 % 
-Basic                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Basic                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2024 00:47:33 UTC
+ Last Updated on 29/03/2024 00:47:22 UTC
 <!--END_SECTION:waka-->
 
