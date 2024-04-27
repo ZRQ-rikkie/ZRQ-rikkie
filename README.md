@@ -42,7 +42,7 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 <h2 align="center">📈 My GitHub Activity📈</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,6 +72,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/04/2024 00:49:07 UTC
+ Last Updated on 27/04/2024 00:48:23 UTC
 <!--END_SECTION:waka-->
 
