@@ -48,8 +48,6 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 > 📦 116.4 kB Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -72,6 +70,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/06/2024 00:52:47 UTC
+ Last Updated on 14/06/2024 00:53:02 UTC
 <!--END_SECTION:waka-->
 
