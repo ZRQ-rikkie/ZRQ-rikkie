@@ -48,15 +48,28 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 > 📦 116.5 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/11/2024 01:04:48 UTC
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 05/11/2024 01:01:39 UTC
 <!--END_SECTION:waka-->
 
