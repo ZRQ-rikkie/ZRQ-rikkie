@@ -48,7 +48,7 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 > 📦 116.5 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -56,22 +56,7 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
  > 
 > 🔑 17 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 09/11/2024 01:00:05 UTC
+ Last Updated on 10/11/2024 01:05:49 UTC
 <!--END_SECTION:waka-->
 
