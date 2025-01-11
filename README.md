@@ -56,7 +56,22 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
  > 
 > 🔑 17 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 10/01/2025 01:04:56 UTC
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 11/01/2025 01:03:29 UTC
 <!--END_SECTION:waka-->
 
