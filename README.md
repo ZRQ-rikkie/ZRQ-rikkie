@@ -42,19 +42,19 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 <h2 align="center">📈 My GitHub Activity📈</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 116.5 kB Used in GitHub's Storage 
+> 📦 117.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -72,6 +72,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/03/2025 00:56:05 UTC
+ Last Updated on 11/03/2025 01:06:15 UTC
 <!--END_SECTION:waka-->
 
