@@ -48,7 +48,7 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 > 📦 117.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
+> 🏆 4 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,16 +62,17 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   35 mins             █████████████████████████   99.94 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CS61A_Notes              35 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2025 01:06:15 UTC
+ Last Updated on 12/03/2025 01:05:33 UTC
 <!--END_SECTION:waka-->
 
