@@ -48,8 +48,6 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 > 📦 117.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -73,6 +71,6 @@ CS61A_Notes              1 hr 18 mins        ███████████�
 ```
 
 
- Last Updated on 16/03/2025 01:11:21 UTC
+ Last Updated on 17/03/2025 01:08:56 UTC
 <!--END_SECTION:waka-->
 
