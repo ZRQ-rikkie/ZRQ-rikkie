@@ -46,7 +46,9 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 
 **🐱 My GitHub Data** 
 
-> 📦 117.3 kB Used in GitHub's Storage 
+> 📦 117.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -71,6 +73,6 @@ CS61A_Notes              1 hr 18 mins        ███████████�
 ```
 
 
- Last Updated on 17/03/2025 01:08:56 UTC
+ Last Updated on 18/03/2025 01:06:26 UTC
 <!--END_SECTION:waka-->
 
