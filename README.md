@@ -62,16 +62,16 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CS61A_Notes              43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/03/2025 01:07:25 UTC
+ Last Updated on 20/03/2025 01:05:57 UTC
 <!--END_SECTION:waka-->
 
