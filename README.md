@@ -42,7 +42,7 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
 <h2 align="center">📈 My GitHub Activity📈</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,22 +56,7 @@ Whether I'm debugging code or unraveling the complexities of an algorithm, I bri
  > 
 > 🔑 18 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 21/05/2025 01:13:30 UTC
+ Last Updated on 22/05/2025 01:12:57 UTC
 <!--END_SECTION:waka-->
 
